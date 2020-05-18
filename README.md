@@ -1,2 +1,3 @@
 # New-Hello-world
-Second repository
+
+Removed the test "Second Repository"
